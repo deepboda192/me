@@ -1260,7 +1260,14 @@ main {
 .achievement:hover {
   background: var(--orange-yellow-crayola);
   color: var(--eerie-black-1);
-  cursor: grab;
+}
+
+.achievement-link {
+  color: var(--white-1);
+}
+
+.achievement-link:hover {
+  color: var(--eerie-black-1);
 }
 
 .certifications-links {
